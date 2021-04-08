@@ -1,0 +1,125 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
+
+body, h1, h2, h3, h4 , h5, p {
+  line-height: 40px !important;
+}
+.columnnomargin {
+  margin-left: 0 !important;
+}
+.floatmeleft {
+ 
+}
+.homeimgcouch {
+  float: right !important;
+}
+.home .entry-title {
+  display: none !important;
+}
+p, h1, h2, h3, h4, h5, h6, h7 {
+  line-height: 210% !important;
+}
+.homefullwidthrowtop {
+ padding-top: 204px !important;
+  margin-bottom: 0 !important;
+  margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+}
+.homefullwidthrowtop {
+  margin-top: -125px !important;
+}
+.homenopaddingbottom {
+  margin-bottom: 0 !important;
+  margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+}
+.homefullwidthrowbottom {
+    padding-bottom: 226px !important;
+  margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+}
+.homeblogcontent {
+  background: #04537B !important;
+}
+.is-style-fill {
+  color: #FFFFFF !important;
+}
+.homefullwidthrowtop .wp-block-column, .homefullwidthrowbottom .wp-block-column {
+  max-width: 340px;
+}
+@media screen 
+  and (min-device-width: 800px) 
+  and (max-device-width: 2500px) 
+ { 
+   .paddleftdesktop {
+  padding-left: 40px !important;
+   }
+}
+.homebtn {
+  font-size: 12px !important;
+  height: 140px !important;
+  padding-top: 20px;
+-webkit-box-shadow: 2px 7px 13px -9px rgba(0,0,0,0.65) !important;
+-moz-box-shadow: 2px 7px 13px -9px rgba(0,0,0,0.65) !important;
+box-shadow: 2px 7px 13px -9px rgba(0,0,0,0.65) !important;
+  text-align: center !important;
+}
+.homebtn a {
+  display: block !important;
+  height: 100% !important;
+  width: 100% !important;
+}
+.homebtn a:hover {
+  background-color: #1CABD8 !important;
+  color: #FFFFFF !important;
+}
+
+#wrapper-footer {
+  display: none !important;
+  
+}
+.paddleftdesktop {
+  max-width: 730px;
+  line-height: 200%;
+}
+h1,h2,h3,h4,h5,h6 {
+  line-height: 25px !important;
+}
+#wrapper-footer-full .widget-title {
+  font-size: 19px !important;
+  font-weight: bold !important;
+}
+#wrapper-footer-full {
+  background: url('hhttp://wp-dd.com/insurancequotes/wp-content/uploads/2021/04/footerbg.svg') #313131;
+  background-position: bottom right !important;
+  background-repeat: no-repeat !important;
+}
+#wrapper-footer-full {
+  color: #FFFFFF !important;
+  padding-top: 84px !important;
+  border-top: 11px solid #1CABD8 !important;
+  line-height: 26px !important;
+}
+#wrapper-footer-full a, #wrapper-footer-full a:visited, #wrapper-footer-full {
+  color: #FFFFFF;
+  font-size: 14px !important;
+}
+body, h1, h2, h3, h4, h5, h6, h7 {
+ font-family: 'Sora', sans-serif !important;
+  line-height: 20px !important;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
